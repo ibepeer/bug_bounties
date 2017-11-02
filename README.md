@@ -12,3 +12,5 @@ Just a list of bug bounties write ups that are interesting
 [Slack SAML By-Pass](http://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html)
 
 [DOM XSS Auth](http://stamone-bug-bounty.blogspot.ch/2017/10/dom-xss-auth_14.html)
+
+[Race Condition](https://samczsun.com/privilege-escalation-legalrobot/)
