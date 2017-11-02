@@ -13,6 +13,8 @@ Just a list of bug bounties write ups that are interesting
 
 [DOM XSS Auth](http://stamone-bug-bounty.blogspot.ch/2017/10/dom-xss-auth_14.html)
 
-[Race Condition](https://samczsun.com/privilege-escalation-legalrobot/)
 
-[Race Condition(https://lightningsecurity.io/blog/race-conditions/)
+## Race Conditions
+[Type Confusion](https://samczsun.com/privilege-escalation-legalrobot/)
+
+[Race Condition](https://lightningsecurity.io/blog/race-conditions/)
